@@ -1,7 +1,6 @@
-CodeSamples_XTAPI_CSharp - X_TRADER® API Sample Applications in C#
-==================================================================
+X_TRADER® API Sample Applications in C#
+=======================================
 
-Language – C#
 For use with the Trading Technologies X_TRADER® API
 
 The repository contains a single Visual Studio 2010 solution which consists of 17 distinct projects, each illustrating a unique feature of the X_TRADER® API.  For more information about the X_TRADER® API please see http://devnet.tradingtechnologies.com
